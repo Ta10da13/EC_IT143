@@ -1,0 +1,1 @@
+EXEC sp_load_sales_total;

@@ -1,0 +1,2 @@
+CREATE OR ALTER PROCEDURE sp_load_sales_total AS BEGIN TRUNCATE TABLE sales_total_table; INSERT INTO sales_total_table (TotalSalesTransactions) SELECT TotalSalesTransactions FROM vw_sales_total; END
+GO

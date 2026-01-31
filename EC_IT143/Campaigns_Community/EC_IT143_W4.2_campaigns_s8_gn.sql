@@ -1,0 +1,1 @@
+EXEC sp_load_campaigns_total;

@@ -1,0 +1,1 @@
+ALTER TABLE sales_total_table ADD sales_total_id INT IDENTITY(1,1) PRIMARY KEY;

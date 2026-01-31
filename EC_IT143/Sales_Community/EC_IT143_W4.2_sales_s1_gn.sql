@@ -1,0 +1,1 @@
+/* Question: How many sales transactions exist in sales_data? */

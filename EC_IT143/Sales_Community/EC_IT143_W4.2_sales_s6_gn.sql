@@ -1,0 +1,1 @@
+TRUNCATE TABLE sales_total_table; INSERT INTO sales_total_table (TotalSalesTransactions) SELECT TotalSalesTransactions FROM vw_sales_total;

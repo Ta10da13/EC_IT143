@@ -1,0 +1,1 @@
+SELECT * INTO sales_total_table FROM vw_sales_total;

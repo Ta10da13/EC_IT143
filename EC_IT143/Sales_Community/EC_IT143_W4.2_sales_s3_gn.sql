@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS TotalSalesTransactions FROM sales_data;
